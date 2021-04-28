@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/mandarin10101/Lava.sh/main/logo.png" width="500" height="250" align="center">
 
-this is a telegram client that automates replies to pictures and videos that come to your chats.
+this is a script for telegram client that automates replies to pictures and videos that come to your chats.
 
 it is ready to run on your machine / for deploying on heroku, so you just need to:
 

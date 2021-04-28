@@ -1,6 +1,6 @@
 # Lava.sh: memes have never been so annoying
 
-[image here]
+<img src="https://raw.githubusercontent.com/mandarin10101/Lava.sh/main/logo.png" style="zoom: 25%;" />
 
 this is a telegram client that automates replies to pictures and videos that come to your chats.
 

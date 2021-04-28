@@ -1,0 +1,25 @@
+{
+    "client_api_id": 0123456,
+    "client_api_hash": "xxxxxxxx_your_api_hash_xxxxxxxxx",
+    "session_name": "you_name_it",
+    "response_delay": [
+        240,
+        1800
+    ],
+    "sleep_time": [
+        23,
+        10
+    ],
+    "targets": [
+        "John Doe",
+        "Skrillex"
+    ],
+    "messages": [
+        "LOL",
+        "Oh my dude",
+        ")))",
+        "🤔🤔🤔",
+        "That's real shit",
+        "Damn boy"
+    ]
+}

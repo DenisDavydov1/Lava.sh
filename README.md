@@ -55,7 +55,7 @@ your steps to make it work:
 
 7. run `python client.py`. client is now online.
 
-Deploying on heroku:
+deploying on heroku:
 
 8. create new python app on https://heroku.com
 9. push all files (including *<session_name>.session*, *Procfile*, *requirements.txt* and *runtime.txt* !) to heroku in any available way (heroku git or github).
